@@ -1,5 +1,13 @@
 # Addressing Student Mental Health and Well-being: A Chatbot Solution
 
+Usage Steps/Guidelines
+* Read Code description from Readme/ipynb notebook
+* Open the chatbot in a terminal for best experience
+  - clone the repo
+  - run 'python chatbot.py'
+* Input 'bye' to stop the conversation with the bot.      
+
+  
 In response to the growing concern around student mental health, I developed a simple chatbot using Python's NLTK library. This chatbot aims to provide accessible information and resources on mental health issues commonly faced by students in college, as well as offer solutions and practices to promote well-being.
 
 ### Problem Statement
