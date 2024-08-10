@@ -1,6 +1,6 @@
 # Addressing Student Mental Health and Well-being: A Chatbot Solution
 
-Usage Steps/Guidelines
+### Usage Steps/Guidelines
 * Read Code description from Readme/ipynb notebook
 * Open the chatbot in a terminal for best experience
   - clone the repo
