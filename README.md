@@ -39,3 +39,8 @@ python chatbot.py
 
 ### Conclusion
 This chatbot is a small but meaningful step towards addressing student mental health by making information and resources more accessible. By integrating NLP techniques, the bot creates a supportive environment where students can seek guidance on mental well-being.
+
+
+# Open the main ipynb using this link (If Github Fails to open properly)
+
+https://nbviewer.org/github/souvikcseiitk/Student-Mental-Health-Chatbot/blob/main/main.ipynb
