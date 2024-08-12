@@ -1,6 +1,6 @@
 # Addressing Student Mental Health and Well-being: A Chatbot Solution
 
-
+ 
 
   
 In response to the growing concern around student mental health, I developed a simple chatbot using Python's NLTK library. This chatbot aims to provide accessible information and resources on mental health issues commonly faced by students in college, as well as offer solutions and practices to promote well-being.
